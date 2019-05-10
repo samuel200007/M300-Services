@@ -1,8 +1,5 @@
 # LB2 M300 Doku
 
-##### Vorwissen:
-
-Gar kein vorwissen
 
 ##### Befehle:
 
@@ -31,6 +28,49 @@ Gar kein vorwissen
  `docker top`
  Informationen zu laufendem Prozess im Container
 
+
+##### Vorwissen:
+
+Linux
+Schlechte Linux kenntnisse durch ÜK-, TBZ- und Abteilungsprojekte.
+
+Git
+Zuvor noch nie mit Git gearbeitet. Nun habe ich dank diesem Modul mehr Erfahrung mit Git und kann es einwandfrei nutzen.
+
+Docker
+Noch gar kein Wissen nur 2 mal ein docker run Befehl ausgeführt, ohne genau zu Wissen was gerade passiert. In die kalte Theorie geworfen worden. Und sonst noch gar kein Praktisches Wissen.
+Tools
+
+GitHUB
+Nach Anleitung von Herr Berger:
+Github
+
+    Konto erstellen auf www.github.com
+    Bestätigung der E-Mail durch Verifications Link
+
+Repository
+
+    Neues Repository Erstellen
+    Name meines Repositorys M300_Docker
+    Status des Repositorys auf Öffentlich stellen
+    README File erstellen, .md für die Richtige Markdown darstellung des Files
+
+Git Bash
+
+    Git Herunterladen https://git-scm.com/downloads
+    Installation abschliessen und Git Bash öffnen
+    Konfigurieren per Bash Befehle:
+    --> git config --global user.name "bmestry"
+    --> git config --global user.email "bryan.lo99la@gmail.com"
+
+Klonen des Repositorys
+
+    Erstelltes Repository auf GitHub öffen. Auf Clone/Download drücken und den Link kopieren.
+    Bash öffnen und Ordner für dieses Repository oder allgemeiner Ordner für kommende Repositories erstellen.
+    Zum Directory wechseln und folgender Befehl ausführen
+
+  git clone https://github.com/bmestry/M300_Bryan
+  git status
 ### Kapitel 1
 
 WordPress ist ein freies Content-Management-System. Es wurde ab 
